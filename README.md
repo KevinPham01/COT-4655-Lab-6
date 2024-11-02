@@ -17,3 +17,6 @@ FireChat is a real-time chat application developed with SwiftUI and Firebase Fir
 * Observable Objects and Environment: Using observable objects to manage state and user data, and passing them within the environment for smoother data flow across views.
 * Real-time Data Handling: Implementing listeners in Firestore to receive live data updates, making the chat experience responsive and dynamic.
 * UI Customization in SwiftUI: Creating a chat UI with distinct styling for user and participant messages, enhancing readability and user experience.
+
+
+![ezgif com-video-to-gif-converter (9)](https://github.com/user-attachments/assets/e0e3041e-da6b-427e-bf88-48f77647acda)
