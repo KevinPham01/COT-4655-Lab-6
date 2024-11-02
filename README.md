@@ -19,4 +19,4 @@ FireChat is a real-time chat application developed with SwiftUI and Firebase Fir
 * UI Customization in SwiftUI: Creating a chat UI with distinct styling for user and participant messages, enhancing readability and user experience.
 
 
-![ezgif com-video-to-gif-converter (9)](https://github.com/user-attachments/assets/e0e3041e-da6b-427e-bf88-48f77647acda)
+![ezgif com-video-to-gif-converter (9)](https://github.com/user-attachments/assets/8e1581b0-8686-42e8-8373-43f89094e1de)
